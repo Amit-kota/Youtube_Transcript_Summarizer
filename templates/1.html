@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+ 
+<title>YouTube Transcript</title>
+<body style="background-color:rgb(201, 200, 204);">
+   <div style="background-color: white;width: 100%;height: 100px;">
+
+<div style="margin-left: 190px;">
+ <!-- <marquee scrollamount=><h1 style="color:black;text-align: center;font-size:50px;font-family:sans-serif;margin-top: 0px;">
+  <img src="{{url_for('static', filename='channels4_profile.jpg')}}" style="width:100px;height: 100px;margin-top:-20px;margin-left: auto;margin-right: auto;">
+  YouTube Transcript Summarizer</h1></marquee>   -->
+
+  <div style="overflow: hidden;">
+    <div style="display: inline-block;width: 100%;">
+      <img src="{{url_for('static', filename='channels4_profile.jpg')}}" style="width:100px;height: 100px;margin-top:-20px;margin-left: auto;margin-right: auto;padding-left: 100px; float:lefit">
+      <u1 style="font-size: 50px;  " >YouTube Transcript Summarizer</h1>
+    </div>
+    
+
+  </div>
+</div>
+
+</div><br>
+<br>
+<br>
+
+    <form action="/submit" method="POST" style="margin-left: 30px;">
+        <label for="fname" style="font-size: 30px;">YouTube Link:</label>
+        <input type="text"  name="fname" style="font-size: 30px;"></label>
+        <input type="submit" value="Submit" style="font-size: 30px;margin-left: 5px;">
+    </form>
+    <h1 style="text-align: center; background-color: yellow; ">Simple_text</h1>
+    <hr style=" height: 5px; ">
+    <P>  
+    <h4 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"> <li>{{simple}}</li></h4>
+    </P>
+
+    <h1 style="text-align: center; background-color: yellow;">Punctuated_text</h1>
+    <hr style=" height: 5px;">
+
+    <P>  
+    <h4 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"> <li >{{Text}}</li></h4>
+    </P>
+
+  <h1 style="text-align: center; background-color: yellow;">Summary1</h1>
+  <hr style=" height: 5px;">
+
+     <P>  
+     <h4 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"> <li>{{resultText1}}</li></h4>
+     </P>
+
+  <h1 style="text-align: center; background-color: yellow;">Summary2</h1>
+  <hr style=" height: 5px;">
+
+     <P>  
+     <h4 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;"> <li>{{resultText2}}</li></h4>
+     </P>
+
+</body>

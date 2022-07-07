@@ -1,0 +1,36 @@
+{'text': 'I*m Alka*s father-in-law speaking.', 'start': 3.875, 'duration': 2.083}
+{'text': 'Baby hasn*t returned home yet, Baby!', 'start': 6.0, 'duration': 2.291}
+{'text': 'Why don*t you try calling her mobile?', 'start': 8.416, 'duration': 2.25}
+{'text': 'Oh, the idea didn*t occur to me, Baby.', 'start': 10.666, 'duration': 2.292}
+{'text': 'I*ll do that right away.', 'start': 13.0, 'duration': 0.416}
+{'text': 'You called the entire town,\njust because I was late?', 'start': 14.583, 'duration': 2.292}
+{'text': 'Hello Jayanti. Bhadresh.', 'start': 17.041, 'duration': 2.917}
+{'text': 'It*s not right to call\nrandom people at odd hours.', 'start': 20.041, 'duration': 2.917}
+{'text': 'I don*t get to talk at all,\nit gets disconnected after four rings.', 'start': 22.958, 'duration': 3.875}
+{'text': 'It doesn*t get disconnected,\npeople do it deliberately.', 'start': 26.833, 'duration': 3.417}
+{'text': 'I am a gold medalist in math,\nhave completed PhD.', 'start': 31.041, 'duration': 2.167}
+{'text': 'Helping the society and the\nyounger generation by education.', 'start': 33.291, 'duration': 3.375}
+{'text': 'Wish you had helped at home.', 'start': 36.75, 'duration': 1.75}
+{'text': 'Inspetor Jadeja, from crime branch.', 'start': 47.541, 'duration': 2.125}
+{'text': 'The incident which occurred\nat your home on 7th August,', 'start': 50.208, 'duration': 2.917}
+{'text': 'I wanted to ask a few\nquestions regarding that.', 'start': 53.208, 'duration': 1.917}
+{'text': 'You are exactly like.', 'start': 56.583, 'duration': 0.958}
+{'text': 'I am like what?', 'start': 57.791, 'duration': 0.959}
+{'text': 'It might seem strange but you\nlook exactly like my father-in-law.', 'start': 58.75, 'duration': 3.791}
+{'text': 'People start resembling in their griefs.', 'start': 64.083, 'duration': 2.417}
+{'text': 'According to the statement\nof the members of the society,', 'start': 69.583, 'duration': 2.375}
+{'text': 'there was a huge ruckus at home that day.', 'start': 72.416, 'duration': 2.667}
+{'text': 'It*s a civil case,\nwhy is crime branch involved?', 'start': 75.166, 'duration': 2.042}
+{'text': 'You might be surprised in the beginning,', 'start': 77.291, 'duration': 2.042}
+{'text': 'after the investigation\nyou would want to pee.', 'start': 79.416, 'duration': 2.209}
+{'text': 'Come straight to the point.', 'start': 82.625, 'duration': 1.583}
+{'text': 'What happened after\nthe fight at the resort?', 'start': 84.25, 'duration': 1.75}
+{'text': 'We went to the resort to find\na solution between our problems.', 'start': 86.25, 'duration': 5.5}
+{'text': 'Did you find a solution?', 'start': 91.875, 'duration': 0.916}
+{'text': 'There was an attempt\nto murder your father.', 'start': 96.333, 'duration': 3.042}
+{'text': 'It*s recorded in the police files, that,', 'start': 102.0, 'duration': 1.625}
+{'text': 'even the big 20 ml syringe was found.', 'start': 104.0, 'duration': 2.666}
+{'text': '- I have no idea.\n- Liar.', 'start': 107.25, 'duration': 1.375}
+{'text': 'You have committed one murder.', 'start': 109.5, 'duration': 2.0}
+{'text': 'Second you have committed.', 'start': 111.666, 'duration': 1.167}
+{'text': 'And the third you both\nhave got together and committed.', 'start': 112.916, 'duration': 3.042}
